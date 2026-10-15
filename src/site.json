@@ -1,0 +1,66 @@
+{
+  "playUrl": "",
+  "slug": "orble",
+  "title": "Orble",
+  "alias": "Also known as Towergle",
+  "accent": "#92caff",
+  "genre": "Ricochet arcade",
+  "premise": "Line up a shot. Let the ricochets work.",
+  "summary": "Launch a limited supply of balls through Tower-inspired courses, clear orange targets, and make your core ability count.",
+  "about": [
+    "Aim into a course and let the ball bounce through its targets. Plan around the limited number of balls, look for useful angles, and collect bonuses along the route.",
+    "Courses combine targets, enemies, boosters, and naturally splitting multiball. Different cores bring different abilities, giving you another decision to make during a shot."
+  ],
+  "features": [
+    {
+      "title": "Every shot has a route",
+      "text": "Read the angles and use ricochets to reach targets beyond a direct line."
+    },
+    {
+      "title": "Targets and bonuses",
+      "text": "Clear orange targets and collect pink bonuses and green powers as you work through a course."
+    },
+    {
+      "title": "A core to play around",
+      "text": "Choose a core and use its ability at the moment that suits your shot."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Choose your angle",
+      "text": "Aim with the pointer or angle slider. Consider where the first bounce will send the ball."
+    },
+    {
+      "title": "Launch and react",
+      "text": "Release the shot and follow its route. Activate the core ability when it can help."
+    },
+    {
+      "title": "Make the remaining balls count",
+      "text": "Use what you learned from the last trajectory to clear the remaining targets."
+    }
+  ],
+  "controls": [
+    {
+      "input": "Pointer or angle slider",
+      "action": "Aim the ball; release the pointer to launch a shot."
+    },
+    {
+      "input": "Arrow keys and Enter",
+      "action": "Adjust the aim with the arrow keys, then press Enter to launch."
+    },
+    {
+      "input": "Space",
+      "action": "Activate the selected core ability."
+    },
+    {
+      "input": "N",
+      "action": "Bank the current shot and move on."
+    },
+    {
+      "input": "R",
+      "action": "Retry the current course."
+    }
+  ],
+  "availability": "Orble is in development. A public playable release and gameplay previews will be added when they are ready.",
+  "controlNote": "These are the current game controls. The game itself is not embedded on this site."
+}
